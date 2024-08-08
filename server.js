@@ -1,3 +1,4 @@
+// 이 파일 하나가 원래 오리지널!! 이거를 녕더가 한거처럼 app.js,kakaologinroute.js,kakaoLogincontroller.js 로 나눴어!
 // .env 파일 로딩
 require('dotenv').config();
 
